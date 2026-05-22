@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hello! I'm Manoj, an enthusiastic Web and Mobile App Developer with a strong passion for learning and embracing new technologies. Currently, I'm fully engaged in my role at Bounteous, and I'm always open to collaborative opportunities.<br>
 
+Know more about me through my [portfolio](https://portfolio-astro-8o99.vercel.app/)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bellamkonda-manoj-sai) 
